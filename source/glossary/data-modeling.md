@@ -14,5 +14,3 @@ Data modeling is a critical aspect of database design and application developmen
 ### In the interview context 
 
 Data modeling is a crucial topic in system design interviews, as it is often tested to evaluate a candidate's ability to design and structure data for a given problem or use case. In such interviews, candidates are typically presented with a scenario or problem statement and asked to design a data model that meets the requirements and constraints of the problem.
-
-[[How to structure a comprehensive answer?]]

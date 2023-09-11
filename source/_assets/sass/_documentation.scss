@@ -1,1 +1,18 @@
 // Add your custom styles here
+.doc-content {
+    ul {
+            @apply .list-disc;
+    
+            li {
+                margin-left: 1.5rem;
+            }
+        }
+
+    ol {
+        @apply .list-decimal;
+
+        li {
+            margin-left: 1.5rem;
+        }
+    }
+}

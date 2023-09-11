@@ -14,15 +14,15 @@ BASE is an alternative approach to database design that prioritizes availability
 
 ### Benefits of BASE:
 
--   [[Availability]]: BASE properties ensure that the system remains available, even under high load or failure conditions.
--   [[Scalability]]: BASE properties allow for more flexible and scalable database architectures, as they do not require the same level of coordination and synchronization as [[ACID]] systems.
--   [[Performance]]: BASE systems can provide better performance than ACID systems, as they do not incur the same overhead and processing requirements.
+-   [Availability](/glossary/availability): BASE properties ensure that the system remains available, even under high load or failure conditions.
+-   [Scalability](/glossary/scalability): BASE properties allow for more flexible and scalable database architectures, as they do not require the same level of coordination and synchronization as [ACID](/glossary/acid) systems.
+-   [Performance](/glossary/performance): BASE systems can provide better performance than ACID systems, as they do not incur the same overhead and processing requirements.
 
 ### Limitations of BASE:
 
--   [[Data Integrity]]: BASE properties can lead to temporary inconsistency or stale data, which may not be acceptable in certain scenarios.
--   [[Reliability]]: BASE systems may not provide the same level of reliability as ACID systems, as they may not guarantee that all transactions are processed correctly.
--  [[Complexity]]: BASE systems can be more complex and difficult to manage, as they require careful design and monitoring to ensure that data consistency is eventually achieved.
+-   [Data Integrity](/glossary/data-integrity): BASE properties can lead to temporary inconsistency or stale data, which may not be acceptable in certain scenarios.
+-   [Reliability](/glossary/reliability): BASE systems may not provide the same level of reliability as ACID systems, as they may not guarantee that all transactions are processed correctly.
+-  Complexity: BASE systems can be more complex and difficult to manage, as they require careful design and monitoring to ensure that data consistency is eventually achieved.
 
 ### BASE vs. ACID:
 

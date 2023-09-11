@@ -52,6 +52,7 @@ return [
             'Requirements' => 'glossary/requirements',
             'Scalability' => 'glossary/scalability',
             'Security' => 'glossary/security',
+            'Service Level Agreement' => 'glossary/service-level-agreement',
             'System Design' => 'glossary/system-design',
             'Throughput' => 'glossary/throughput',
             'Tier' => 'glossary/tier',

@@ -15,5 +15,3 @@ Effective capacity planning requires a good understanding of the system architec
 ### In the Interview Context 
 
 Capacity planning is a common topic in system design and architecture interviews, particularly for roles in infrastructure, operations, and performance engineering. In such interviews, candidates may be asked to design and plan the capacity of a system or application, given certain requirements, constraints, and assumptions.
-
-[[How to structure a comprehensive answer?]]
