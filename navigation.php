@@ -10,6 +10,9 @@ return [
             'Custom 404 Page' => 'docs/custom-404-page',
         ],
     ],
+    'Architecture Patterns' => [
+        'url' => '/architecture-patterns',
+    ],
     'Glossary' => [
         'url' => '/glossary',
         'children' => [
@@ -60,5 +63,4 @@ return [
             'Use Case' => 'glossary/use-case',
         ],
     ],
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
 ];
