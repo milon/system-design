@@ -20,6 +20,9 @@ return [
             'Service Oriented Architecture' => 'architecture-patterns/service-oriented-architecture',
         ],
     ],
+    'System Components' => [
+        'url' => '/system-components',
+    ],
     'Glossary' => [
         'url' => '/glossary',
         'children' => [
