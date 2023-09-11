@@ -52,7 +52,7 @@ Service-oriented architecture (SOA) and [[Microservices]] architecture are both 
 
 **Another key difference is the way in which services communicate with each other.** 
 
-- In SOA, services typically communicate with each other using a messaging system, such as an [[Enterprise Service Bus]](ESB), which provides a centralized hub for managing communication between services. 
+- In SOA, services typically communicate with each other using a messaging system, such as an [Enterprise Service Bus](/system-components/enterprise-service-bus), which provides a centralized hub for managing communication between services. 
 - In microservices architecture, services communicate with each other using lightweight protocols, such as REST or [[Message Queue]], which allow for greater flexibility and autonomy.
 
 SOA is often associated with [Monolithic](/architecture-patterns/monolithic-architecture) architectures, where all services are deployed together in a single unit. In contrast, microservices architecture is associated with a more distributed architecture, where services can be deployed independently of each other, allowing for greater flexibility and scalability.

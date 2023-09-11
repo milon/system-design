@@ -90,4 +90,11 @@ return [
             'Use Case' => 'glossary/use-case',
         ],
     ],
+    'Others' => [
+        'url' => '/others',
+        'children' => [
+            'Frequently Asked Questions' => 'others/frequently-asked-questions',
+            'About' => 'others/about',
+        ],
+    ],
 ];
