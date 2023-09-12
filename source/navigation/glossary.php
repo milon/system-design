@@ -8,6 +8,7 @@ return [
     'Authentication' => 'glossary/authentication',
     'Authorization' => 'glossary/authorization',
     'BASE' => 'glossary/base',
+    'CAP Theorem' => 'glossary/cap-theorem',
     'Capacity Planning' => 'glossary/capacity-planning',
     'Cohesion' => 'glossary/cohesion',
     'Compatibility' => 'glossary/compatibility',
