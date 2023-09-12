@@ -43,7 +43,7 @@ By organizing the system around specific business functions, an e-commerce platf
 
 ## vs. Microservices 
 
-Service-oriented architecture (SOA) and [[Microservices]] architecture are both architectural approaches that involve breaking down a system into smaller, more modular components. However, there are some key differences between the two.
+Service-oriented architecture (SOA) and [Microservices](/architecture-patterns/microservices-architecture) architecture are both architectural approaches that involve breaking down a system into smaller, more modular components. However, there are some key differences between the two.
 
 **One of the main differences is the size and scope of the services.** 
 
@@ -58,6 +58,3 @@ Service-oriented architecture (SOA) and [[Microservices]] architecture are both 
 SOA is often associated with [Monolithic](/architecture-patterns/monolithic-architecture) architectures, where all services are deployed together in a single unit. In contrast, microservices architecture is associated with a more distributed architecture, where services can be deployed independently of each other, allowing for greater flexibility and scalability.
 
 Overall, while there are some similarities between SOA and microservices architecture, the two approaches are distinct and have different strengths and weaknesses. The choice between the two will depend on the specific needs and requirements of the system being developed.
-
-
-

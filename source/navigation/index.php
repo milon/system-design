@@ -13,6 +13,10 @@ return [
         'url' => '/system-components',
         'children' => require_once(__DIR__.'/system-components.php'),
     ],
+    'Interview Techniques' => [
+        'url' => '/interview-techniques',
+        'children' => require_once(__DIR__.'/interview-techniques.php'),
+    ],
     'Glossary' => [
         'url' => '/glossary',
         'children' => require_once(__DIR__.'/glossary.php'),
