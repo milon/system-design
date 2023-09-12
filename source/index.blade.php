@@ -3,7 +3,7 @@
 @section('body')
 <section class="container max-w-6xl mx-auto px-6 py-10 md:py-12">
     <div class="flex flex-col-reverse mb-10 lg:flex-row lg:mb-24">
-        <div class="mt-8">
+        <div class="mt-8 mr-8">
             <h1 id="intro-docs-template">{{ $page->siteName }}</h1>
 
             <h2 id="intro-powered-by-jigsaw" class="font-light mt-4">{{ $page->siteDescription }}</h2>
@@ -15,14 +15,14 @@
             </div>
         </div>
 
-        <img src="/assets/img/logo-large.svg" alt="{{ $page->siteName }} large logo" class="mx-auto mb-6 lg:mb-0 ">
+        <img src="/assets/img/logo-large.png" width="380px" alt="{{ $page->siteName }} large logo" class="mx-auto mb-6 lg:mb-0 ">
     </div>
 
     <hr class="block my-8 border lg:hidden">
 
     <div class="md:flex -mx-2 -mx-4">
         <div class="mb-8 mx-3 px-2 md:w-1/3">
-            <img src="/assets/img/icon-window.svg" class="h-12 w-12" alt="window icon">
+            <img src="/assets/img/icon-1.png" class="h-16 w-16" alt="window icon">
 
             <h3 id="intro-laravel" class="text-2xl text-blue-900 mb-0">Get introduction to real world system components.</h3>
 
@@ -30,7 +30,7 @@
         </div>
 
         <div class="mb-8 mx-3 px-2 md:w-1/3">
-            <img src="/assets/img/icon-terminal.svg" class="h-12 w-12" alt="terminal icon">
+            <img src="/assets/img/icon-2.png" class="h-16 w-16" alt="terminal icon">
 
             <h3 id="intro-markdown" class="text-2xl text-blue-900 mb-0">Example of real world system</h3>
 
@@ -38,11 +38,11 @@
         </div>
 
         <div class="mx-3 px-2 md:w-1/3">
-            <img src="/assets/img/icon-stack.svg" class="h-12 w-12" alt="stack icon">
+            <img src="/assets/img/icon-3.png" class="h-16 w-16" alt="stack icon">
 
             <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">Explanation of all the system design termonology</h3>
 
-            <p>Jigsaw comes pre-configured with Laravel Mix, a simple and powerful build tool. Use the latest frontend tech with just a few lines of code.</p>
+            <p>Gain clarity in system design by delving into our course, where we provide a thorough explanation of all the critical system design terminology, empowering you to communicate and design with precision.</p>
         </div>
     </div>
 </section>
