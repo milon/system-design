@@ -13,7 +13,7 @@ return [
     'docsearchIndexName' => env('DOCSEARCH_INDEX'),
 
     // navigation menu
-    'navigation' => require_once('navigation.php'),
+    'navigation' => require_once(__DIR__.'/source/navigation/index.php'),
 
     // helpers
     'isActive' => function ($page, $path) {
