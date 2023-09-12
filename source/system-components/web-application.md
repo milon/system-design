@@ -31,6 +31,6 @@ A web application is a software program that runs on a web server and is accesse
 ### Considerations When Developing a Web Application:
 
 -   User Experience, as the usability and design of a web application can significantly impact its success and adoption.
--   [[Performance]], as slow or unresponsive web applications can frustrate users and lead to lost traffic and revenue.
--   [[Scalability]], as web applications need to be able to handle increasing traffic and data volumes as they grow.
--   Maintenance and [[Security]], as web applications need to be regularly updated and secured to prevent security vulnerabilities and ensure functionality.
+-   [Performance](/glossary/performance), as slow or unresponsive web applications can frustrate users and lead to lost traffic and revenue.
+-   [Scalability](/glossary/scalability), as web applications need to be able to handle increasing traffic and data volumes as they grow.
+-   Maintenance and [Security](/glossary/security), as web applications need to be regularly updated and secured to prevent security vulnerabilities and ensure functionality.

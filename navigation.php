@@ -21,6 +21,8 @@ return [
         'url' => '/system-components',
         'children' => [
             'Content Delivery Network (CDN)' => 'system-components/cdn',
+            'Relational Database' => 'system-components/relational-database',
+            'NoSQL Database' => 'system-components/nosql-database',
             'Block Storage' => 'system-components/block-storage',
             'Object Storage' => 'system-components/object-storage',
             'Document Storage' => 'system-components/document-storage',
@@ -28,7 +30,6 @@ return [
             'In-Memory Cache' => 'system-components/in-memory-cache',
             'Message Queue' => 'system-components/message-queue',
             'Key-Value Store' => 'system-components/key-value-store',
-            'Relational Database' => 'system-components/relational-database',
             'Search Engine Database' => 'system-components/search-engine-database',
             'Wide Column Database' => 'system-components/wide-column-database',
             'Enterprise Service Bus' => 'system-components/enterprise-service-bus',
