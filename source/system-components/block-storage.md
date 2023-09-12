@@ -28,7 +28,7 @@ Block storage is a type of data storage that stores data in fixed-sized blocks o
 
 ### Considerations When Using Block Storage:
 
--   [[Capacity Planning]]: Block storage requires careful capacity planning to ensure that sufficient storage is available for current and future needs.
+-   [Capacity Planning](/glossary/capacity-planning): Block storage requires careful capacity planning to ensure that sufficient storage is available for current and future needs.
 -   Data Protection: Appropriate data protection measures need to be in place to prevent data loss, such as data replication and backup.
 -   [Performance](/glossary/performance): Block storage performance can be impacted by factors such as network latency, I/O load, and storage device type, and optimization techniques such as caching and load balancing may be necessary for achieving good performance.
 -   Cost: Block storage costs can vary depending on factors such as storage capacity, I/O operations, and data transfer, and careful management of storage usage is necessary to keep costs under control.

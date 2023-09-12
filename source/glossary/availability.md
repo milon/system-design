@@ -18,7 +18,7 @@ Availability refers to the ability of a system to remain operational and accessi
 - **Uptime**: The percentage of time a system is operational and accessible to users.
 - **Mean Time Between Failures (MTBF)**: The average time between failures of a system.
 - **Mean Time to Recovery (MTTR)**: The average time it takes to recover from a system failure.
-- **Service Level Agreement (SLA)**: The agreed upon level of availability between a service provider and a user.
+- **[Service Level Agreement (SLA)](/glossary/service-level-agreement)**: The agreed upon level of availability between a service provider and a user.
 
 ## Best Practices for Availability:
 
