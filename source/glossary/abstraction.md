@@ -4,4 +4,4 @@ extends: _layouts.documentation
 section: content
 ---
 
-The process of reducing complexity by focusing on the most important or relevant aspects of a system or problem. Abstraction is an important technique in system design and architecture, as it allows designers to create simpler, more manageable systems.
+Simplifying things by concentrating on the most crucial parts of a system or issue is called abstraction. It's a handy tool in designing systems and structures because it helps designers make things easier to handle and understand.
