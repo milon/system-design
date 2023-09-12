@@ -11,7 +11,7 @@
             <p class="text-lg">Unlock the secrets to acing system design interviews with our comprehensive course. Master the art of designing scalable and efficient systems to not only secure your dream job in tech but also have real world insight of how scalable systems do actually wokrs!</p>
 
             <div class="flex my-10">
-                <a href="/getting-started" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Get Started</a>
+                <a href="/getting-started" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-semibold text-white hover:text-white rounded mr-4 py-2 px-6">Get Started</a>
             </div>
         </div>
 
