@@ -28,6 +28,6 @@ A load balancer is a device or software program that distributes network traffic
 ### Considerations When Using a Load Balancer:
 
 -   Choosing the right load balancing algorithm based on your needs and requirements
--   [[Scalability]], as load balancers need to be able to handle increasing traffic and server loads
+-   [Scalability](/glossary/scalability), as load balancers need to be able to handle increasing traffic and server loads
 -   Cost, as hardware load balancers can be expensive, and cloud load balancer costs can vary depending on usage
 -   Security, as load balancers can be a potential target for attacks and need to be secured appropriately.

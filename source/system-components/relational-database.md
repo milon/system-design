@@ -20,7 +20,7 @@ A relational database is a type of database that organizes data into tables with
 -   Foreign Key: A field in one table that refers to the primary key of another table
 -   Index: A data structure that speeds up query performance by providing quick access to data in a table
 -   Transaction: A sequence of operations that are treated as a single unit of work that must be completed as a whole or rolled back as a whole in case of failure
--   [[ACID]]: A set of properties that guarantee reliable processing of database transactions (Atomicity, Consistency, Isolation, Durability)
+-   [ACID](/glossary/acid): A set of properties that guarantee reliable processing of database transactions (Atomicity, Consistency, Isolation, Durability)
 
 ### Common Relational Database Management Systems (RDBMS):
 
@@ -32,6 +32,6 @@ A relational database is a type of database that organizes data into tables with
 ### Considerations When Using a Relational Database:
 
 -   Data modeling, as the structure and relationships between tables need to be carefully designed to ensure efficient data storage and retrieval
--   [[Performance]], as relational databases can suffer from slow query performance with large datasets, and proper indexing and query optimization are crucial for improving performance
--   [[Scalability]], as scaling relational databases can be complex and expensive compared to other database types like NoSQL or NewSQL
--   [[Security]], as proper security measures need to be in place to prevent unauthorized access and data breaches.
+-   [Performance](/glossary/performance), as relational databases can suffer from slow query performance with large datasets, and proper indexing and query optimization are crucial for improving performance
+-   [Scalability](/glossary/scalability), as scaling relational databases can be complex and expensive compared to other database types like NoSQL or NewSQL
+-   [Security](/glossary/security), as proper security measures need to be in place to prevent unauthorized access and data breaches.

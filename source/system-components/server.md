@@ -28,7 +28,7 @@ A server is a computer program or device that provides functionality for other p
 
 ### Considerations When Using a Server:
 
--   [[Security]], as servers can be a potential target for attacks and need to be secured appropriately to prevent unauthorized access and data breaches.
--   [[Maintenance]], as servers need to be regularly updated and maintained to ensure functionality and performance.
--   [[Scalability]], as servers need to be able to handle increasing traffic and demand as the number of clients and services grows.
--   [[Compatibility]], as servers need to be compatible with the applications, databases, and other resources they are intended to manage or provide.
+-   [Security](/glossary/security), as servers can be a potential target for attacks and need to be secured appropriately to prevent unauthorized access and data breaches.
+-   [Maintenance](/glossary/maintenance), as servers need to be regularly updated and maintained to ensure functionality and performance.
+-   [Scalability](/glossary/scalability), as servers need to be able to handle increasing traffic and demand as the number of clients and services grows.
+-   [Compatibility](/glossary/compatibility), as servers need to be compatible with the applications, databases, and other resources they are intended to manage or provide.

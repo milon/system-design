@@ -14,9 +14,9 @@ A service is a self-contained unit of functionality that can be accessed and use
 
 ### Common Service Protocols:
 
--   HTTP/HTTPS: The most common protocol for web-based services, using standard HTTP methods like GET, POST, PUT, and DELETE to interact with a service API.
--   REST: A common architectural style for web services that uses a set of constraints to enable efficient and scalable communication between clients and servers.
--   gRPC: An open-source, high-performance RPC framework that uses protocol buffers for efficient serialization and deserialization of data.
+-   [HTTP/HTTPS](/glossary/http): The most common protocol for web-based services, using standard HTTP methods like GET, POST, PUT, and DELETE to interact with a service API.
+-   [REST](/glossary/rest): A common architectural style for web services that uses a set of constraints to enable efficient and scalable communication between clients and servers.
+-   [gRPC](/glossary/grpc): An open-source, high-performance RPC framework that uses protocol buffers for efficient serialization and deserialization of data.
 
 ### Considerations When Using Services:
 

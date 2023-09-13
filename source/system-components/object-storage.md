@@ -21,13 +21,13 @@ Object storage is a type of data storage that stores data as objects, rather tha
 
 ### Common Object Storage Technologies:
 
--   **Amazon S3**: A highly scalable, fully managed object storage service offered by Amazon Web Services (AWS).
+-   **Amazon Simple Storage Service (S3)**: A highly scalable, fully managed object storage service offered by Amazon Web Services (AWS).
 -   **Google Cloud Storage**: A fully managed object storage service offered by Google Cloud Platform that provides global data access and low-latency performance.
 -   **OpenStack Swift**: An open-source object storage system that provides distributed, highly available storage and access to stored objects.
 
 ### Considerations When Using Object Storage:
 
 -   Data Lifecycle Management: Object storage requires careful management of data throughout its lifecycle, from initial creation to eventual deletion, to ensure efficient and cost-effective use of storage resources.
--   [[Security]]: Appropriate security measures need to be in place to prevent unauthorized access and data breaches, such as encryption and access controls.
--   [[Performance]]: Object storage performance can be impacted by factors such as network latency and data retrieval times, and optimization techniques such as caching and load balancing may be necessary for achieving good performance.
+-   Security: Appropriate security measures need to be in place to prevent unauthorized access and data breaches, such as encryption and access controls.
+-   Performance: Object storage performance can be impacted by factors such as network latency and data retrieval times, and optimization techniques such as caching and load balancing may be necessary for achieving good performance.
 -   Cost: Object storage costs can vary depending on the amount of data stored, the number of requests made, and other factors, and careful management of storage usage is necessary to keep costs under control.

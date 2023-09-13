@@ -26,7 +26,7 @@ Common Graph Database Technologies:
 
 Considerations When Using a Graph Database:
 
-- [[Data Modeling]], as the graph data model requires careful design to ensure efficient storage and querying of relationships between data.
+- [Data Modeling](/glossary/data-modeling), as the graph data model requires careful design to ensure efficient storage and querying of relationships between data.
 - Query Optimization, as complex queries can be slower and more difficult to optimize in graph databases than in traditional relational databases.
-- [[Data Integrity]], as the graph data model can make it more difficult to ensure data consistency and enforce constraints and rules.
-- [[Security]], as proper security measures need to be in place to prevent unauthorized access and data breaches.
+- [Data Integrity](/glossary/data-integrity), as the graph data model can make it more difficult to ensure data consistency and enforce constraints and rules.
+- [Security](/glossary/security), as proper security measures need to be in place to prevent unauthorized access and data breaches.

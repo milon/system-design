@@ -29,7 +29,7 @@ section: content
 
 ### Considerations When Using Key-Value Stores:
 
--   Choosing the right implementation based on your needs and [[Requirements]]
--   Data modeling, as key-value stores have limited querying capabilities
--   Scalability, as distributed key-value stores can be more complex to manage and operate than single-node key-value stores
--   Data [[Consistency]], as key-value stores often sacrifice [[Consistency]] for [[Performance]] and [[Scalability]]
+-   Choosing the right implementation based on your needs and [Requirements](/glossary/requirements).
+-   Data modeling, as key-value stores have limited querying capabilities.
+-   Scalability, as distributed key-value stores can be more complex to manage and operate than single-node key-value stores.
+-   Data [Consistency](/glossary/consistency), as key-value stores often sacrifice Consistency for [Performance](/glossary/performance) and [Scalability](/glossary/scalability).

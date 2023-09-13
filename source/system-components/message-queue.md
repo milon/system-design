@@ -30,4 +30,4 @@ A message queue is a type of middleware that enables communication between distr
 -   Message Durability: Ensuring that messages are durable and can be recovered in the event of system failures or outages.
 -   Message Ordering: Ensuring that messages are processed in the correct order, especially when dealing with dependent or related messages.
 -   Message Format: Choosing an appropriate message format that is compatible with both the producer and the consumer of the message.
--   [[Scalability]]: Ensuring that the message queue can handle increasing amounts of traffic and data as the number of clients and messages grow.
+-   Scalability: Ensuring that the message queue can handle increasing amounts of traffic and data as the number of clients and messages grow.

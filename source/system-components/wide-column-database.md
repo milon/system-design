@@ -27,7 +27,7 @@ A wide-column store is a type of [[NoSQL database]] that stores data in columns 
 
 ### Considerations When Using a Wide-Column Store:
 
--   [[Data Modeling]]: Wide-column stores require careful data modeling to ensure efficient storage and querying of data, as well as optimization of read and write performance.
+-   Data Modeling: Wide-column stores require careful data modeling to ensure efficient storage and querying of data, as well as optimization of read and write performance.
 -   Query Optimization: Efficient querying of wide-column stores can be complex, and query optimization is an important consideration for achieving good performance.
--   [[Data Consistency]]: Wide-column stores typically provide eventual consistency, meaning that updates to the data may not be immediately visible to all nodes or clients.
--   [[Security]]: Appropriate security measures need to be in place to prevent unauthorized access and data breaches, such as encryption and access controls.
+-   Data Consistency: Wide-column stores typically provide eventual consistency, meaning that updates to the data may not be immediately visible to all nodes or clients.
+-   Security: Appropriate security measures need to be in place to prevent unauthorized access and data breaches, such as encryption and access controls.

@@ -13,7 +13,7 @@ ESBs also provide a range of other capabilities, such as service discovery, secu
 Some popular cloud-based ESB solutions include:
 
 1.  **Microsoft Azure Service Bus**: Azure Service Bus is a cloud-based messaging service that provides a range of integration capabilities, including message routing, message queues, and topic subscriptions.
-2.  **Amazon Web Services** (AWS) **Simple Notification Service** (SNS): AWS SNS is a cloud-based messaging service that enables the distribution of messages to multiple recipients or endpoints, including email, SMS, and mobile push notifications.
+2.  **AWS Simple Notification Service** (SNS): AWS SNS is a cloud-based messaging service that enables the distribution of messages to multiple recipients or endpoints, including email, SMS, and mobile push notifications.
 3.  **Google Cloud Pub/Sub**: Google Cloud Pub/Sub is a cloud-based messaging service that provides real-time messaging for applications and services.
 4.  **IBM Cloud Integration**: IBM Cloud Integration is a cloud-based integration platform that includes an ESB, API management, and data integration capabilities.
 5.  **Dell Boomi**: Dell Boomi is a cloud-based integration platform that includes an ESB, API management, and data integration capabilities.
