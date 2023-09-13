@@ -30,4 +30,14 @@
     @apply .mt-0;
     @apply .text-gray-800;
     @apply .text-sm;
+    @apply .font-semibold;
+
+    &.lvl0 {
+        @apply .font-semibold;
+    }
+
+    &.lvl0-active {
+        @apply .text-blue-500;
+        @apply .font-extrabold;
+    }
 }
