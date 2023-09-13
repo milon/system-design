@@ -2,6 +2,7 @@
 
 return [
     'Content Delivery Network (CDN)' => 'system-components/cdn',
+    'Domain Name System (DNS)' => 'system-components/dns',
     'Relational Database' => 'system-components/relational-database',
     'NoSQL Database' => 'system-components/nosql-database',
     'Block Storage' => 'system-components/block-storage',
