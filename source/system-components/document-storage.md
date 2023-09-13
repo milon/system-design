@@ -24,10 +24,11 @@ A document store is a type of NoSQL database that stores data in a flexible, sch
 -   **MongoDB**: An open-source, document-oriented database that is widely used and supports many features and extensions.
 -   **Couchbase**: A distributed document-oriented database that combines the flexibility of document stores with the performance and scalability of NoSQL databases.
 -   **Amazon DocumentDB**: A fully managed document-oriented database service offered by Amazon Web Services (AWS) that is compatible with MongoDB.
+-   **Azure Cosmos DB**: A fully managed, globally distributed database service offered by Microsoft Azure that supports multiple data models, including document stores.
 
 ### Considerations When Using a Document Store:
 
--   [[Data Modeling]], as the flexible schema of document stores requires careful design to ensure efficient data storage and retrieval.
+-   [Data Modeling](/glossary/data-modeling), as the flexible schema of document stores requires careful design to ensure efficient data storage and retrieval.
 -   Query Optimization, as complex queries can be slower and more difficult to optimize in document stores than in traditional relational databases.
--   [[Data Integrity]], as the flexible schema of document stores can make it more difficult to ensure data consistency and enforce constraints and rules.
--   [[Security]], as proper security measures need to be in place to prevent unauthorized access and data breaches.
+-   [Data Integrity](/glossary/data-integrity), as the flexible schema of document stores can make it more difficult to ensure data consistency and enforce constraints and rules.
+-   [Security](/glossary/security), as proper security measures need to be in place to prevent unauthorized access and data breaches.
