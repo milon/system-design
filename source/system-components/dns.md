@@ -8,6 +8,8 @@ DNS, or Domain Name System, is a critical component of the Internet that acts as
 
 Here's how DNS works:
 
+![DNS](/assets/images/system-components/dns.png "DNS"")
+
 1. **Domain Name Resolution**: When you enter a domain name into your web browser (e.g., "www.example.com"), your device sends a DNS query to a DNS resolver, typically provided by your Internet Service Provider (ISP) or a third-party DNS service like Google DNS or OpenDNS.
 2. **DNS Hierarchy**: The DNS resolver searches for the corresponding IP address by querying a hierarchical system of DNS servers. This hierarchy includes:
    - Root Servers: These are the top-level servers that store information about the global structure of the DNS.
