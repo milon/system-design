@@ -11,6 +11,7 @@ return [
     'Graph Database' => 'system-components/graph-database',
     'In-Memory Cache' => 'system-components/in-memory-cache',
     'Message Queue' => 'system-components/message-queue',
+    'NewSQL Database' => 'system-components/newsql-database',
     'Key-Value Store' => 'system-components/key-value-store',
     'Search Engine Database' => 'system-components/search-engine-database',
     'Wide Column Database' => 'system-components/wide-column-database',
