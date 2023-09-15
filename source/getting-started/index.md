@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-## How to use this website
+### How to use this website
 
 This website is designed to help you prepare for system design interviews. It contains a collection of system design topics, each with a brief description, key characteristics, common applications, and example technologies. It also includes a glossary of common terms and a list of recommended resources for further reading.
 
