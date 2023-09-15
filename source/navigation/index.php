@@ -21,6 +21,10 @@ return [
         'url' => '/glossary',
         'children' => require_once(__DIR__.'/glossary.php'),
     ],
+    'Examples' => [
+        'url' => '/examples',
+        'children' => require_once(__DIR__.'/examples.php'),
+    ],
     'Others' => [
         'url' => '/others',
         'children' => [
