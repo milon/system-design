@@ -22,3 +22,6 @@ This site is open source. You can find the source code [here](https://github.com
 
 You can find the example diagrams in the assets directory of the source code.
 
+### How can I contribute to this site?
+
+If you find any error or have any suggestion, please feel free to create an issue or send a pull request.
