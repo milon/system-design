@@ -8,7 +8,7 @@ For a system design interview you have a design a complex system in 20-25 minute
 
 The guideline is as follows:
 
-1.  Requirements
+1.  [Requirements Analysis](/interview-techniques/requirement-analysis)
     - Functional requirements
         - Core features
         - Support(nice to have) features.
@@ -16,7 +16,7 @@ The guideline is as follows:
         - Read or write heavy?
         - Distributed system or single server?
         - What is more important data consistency or availability?
-2.  Capacity Estimation
+2.  [Capacity Estimation](/interview-techniques/capacity-estimation)
     - Request
         - Daily active user
         - Peak load
@@ -26,17 +26,17 @@ The guideline is as follows:
         - Size of each individual file/data chunk
         - Estimate storage for next 5 years
         - Number of replica
-3.  Data Model
+3.  [Data Model](/interview-techniques/data-model)
     - ER diagram
     - Database schema
     - Choice of database
-4.  API Design
+4.  [API Design](/interview-techniques/api-design)
     - Use REST
     - Ask about graphql
     - Ask about gRPC
-5.  System Design
+5.  [System Design](/interview-techniques/system-design)
     - System design diagram
-6.  Design Discussion
+6.  [Design Discussion](/interview-techniques/design-discussion)
     - Database choice justification
 
 Within the short 20-25 minutes all the above mentioned points are impossible to cover. So, it's better to get clarify the requirements first and then check with your interviewer which points to cover. If you are not sure about the requirements, ask your interviewer. It's better to ask than to assume. Some interviewer likes capacity estimation and some just skip this part and ask you directly to design the system. So, it's better to ask your interviewer about the requirements and then proceed accordingly.
