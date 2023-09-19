@@ -26,3 +26,10 @@ For example, a platform like Netflix requires a significant amount of storage sp
 
 By estimating these capacities, system designers can ensure that they're building a system that can handle the expected volume of requests, network traffic, and storage needs. With careful planning and consideration of these key metrics, designers can develop systems that meet the needs of users and provide an outstanding user experience.
 
+### In the Interview Context
+
+Capacity estimation is a crucial part of the system design interview, as it helps interviewers understand how you would approach the problem at hand. By asking you to estimate the capacity of a system, interviewers can assess your ability to think critically and make reasonable assumptions.
+
+Also calculation a bunch of numbers without a calculator is very hard to do in a short time. One way to tackle this problem is rounding heavily. For example, if you need to calculate something which is 1 mega byte is size, rather than calculation 1024 kb, you can round it to 1000 kb. Similarly, if you need to calculate something which is 3.2 or 4.6 mega byte in size, you can round it to 3 or 5 mega byte. This will make your calculation much easier and faster.
+
+Another technique is using easy to calculate numbers, rather than using 7 mb per image, use either 5 mb or 10 mb per image. This will make your calculation much easier and faster. Interviewer actually don't care about the exact number, they just want to see how you approach the problem and how you think about the problem. And wasting time on calculation is not a good idea, specially when you have only 20-25 minutes to design a very complex system.
