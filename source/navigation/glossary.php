@@ -18,6 +18,7 @@ return [
     'Coupling' => 'glossary/coupling',
     'Data Integrity' => 'glossary/data-integrity',
     'Data Modeling' => 'glossary/data-modeling',
+    'Database Sharding' => 'glossary/database-sharding',
     'Decryption' => 'glossary/decryption',
     'Dependency' => 'glossary/dependency',
     'Design Pattern' => 'glossary/design-pattern',
