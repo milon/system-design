@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://system-design.test/',
     'production' => false,
     'siteName' => 'System Design',
     'siteDescription' => 'System Design interview preparation guide for Big Tech Companies.',
