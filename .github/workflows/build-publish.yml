@@ -20,6 +20,8 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: 18
+    - name: Copy .env file
+      run: cp .env.example .env
     - name: Install Composer Dependencies
       run: composer install --no-ansi --no-interaction --ignore-platform-reqs --no-scripts --no-suggest --no-progress --prefer-dist
     - name: Install NPM Dependencies
