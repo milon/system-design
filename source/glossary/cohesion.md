@@ -4,4 +4,4 @@ extends: _layouts.documentation
 section: content
 ---
 
-A measure of the degree to which the components or modules within a system are related to each other. High cohesion means that components/modules are closely related and have a clear purpose, while low cohesion means that components/modules are unrelated or perform multiple, unrelated functions.
+Cohesion in system design is like a measure of how closely connected the different parts or modules within a system are to each other. When there's high cohesion, it means that these parts or modules work closely together and have a clear and specific purpose. On the other hand, low cohesion indicates that the parts or modules are not closely connected, and they might even do different, unrelated things. In simple terms, high cohesion is all about components/modules that work together with a shared goal, while low cohesion means they might not work well together or have a common purpose.
