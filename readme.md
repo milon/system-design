@@ -1,3 +1,5 @@
+[![Build & Publish](https://github.com/milon/system-design/actions/workflows/build-publish.yml/badge.svg)](https://github.com/milon/system-design/actions/workflows/build-publish.yml)
+
 # System Design
 
 This is a collection of notes and resources on system design interview questions. This will not only help you to prepare for the system design interview but also help you to understand the system design concepts used in real world scenerio.
