@@ -10,4 +10,4 @@ Through this extensive experience, I've observed a noticeable dearth of high-qua
 
 ### Disclaimer
 
-English is not my native language, so I kindly ask for your understanding regarding any potential grammatical errors. I've utilized Grammarly to help spot and correct such errors to the best of my ability. Nevertheless, Grammarly may not catch every mistake. Furthermore, I've employed ChatGPT to assist in rephrasing certain sentences, and any unintentional inaccuracies in the rephrasing are regrettable, and I extend my apologies for them.
+English is not my native language, so I kindly ask for your understanding regarding any potential grammatical errors. I've utilized Grammarly to help spot and correct such errors to the best of my ability. Nevertheless, Grammarly may not catch every mistake. If you notice any errors, please feel free to contact me.
