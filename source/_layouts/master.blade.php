@@ -54,7 +54,7 @@
                     @if ($page->docsearchApiKey && $page->docsearchIndexName)
                         @include('_nav.search-input')
                     @endif
-                    <a href="/getting-started" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-semibold text-white hover:text-white rounded mr-4 py-2 px-6">Docs</a>
+                    <a href="/getting-started" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-semibold text-white hover:text-white rounded mr-4 ml-4 py-2 px-6">Docs</a>
                     <a href="https://github.com/milon/system-design" title="source code" target="_blank">
                         <img class="h-8 md:h-10 mr-3" src="/assets/img/github-logo.svg" alt="github" />
                     </a>
