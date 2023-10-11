@@ -1,11 +1,14 @@
+---
+permalink: 404.html
+---
+
 @extends('_layouts.master')
 
 @section('body')
 <div class="flex flex-col items-center mt-32 text-gray-700">
     <h1 class="text-6xl font-light leading-none mb-2">
-        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493.70344543457054 320.87881181789817" width="300" height="200">
-  <!-- svg-source:excalidraw -->
-  
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493.70344543457054 320.87881181789817" width="300" height="200" />
+
   <defs>
     <style class="style-fonts">
       @font-face {
