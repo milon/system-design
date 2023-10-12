@@ -17,7 +17,7 @@
         <meta name="twitter:card" content="summary_large_image">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
-            <meta name="generator" content="tighten_jigsaw_doc">
+            <meta name="generator" content="system_design_doc">
         @endif
 
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
@@ -75,7 +75,7 @@
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center">
                 <li class="md:mr-2">
-                    &copy; <a href="/" title="System Design">System Design</a> {{ date('Y') }}.
+                    &copy; <a href="/" title="System Design">System Design</a> by <a href="https://milon.im">Nuruzzaman Milon</a>, {{ date('Y') }}.
                 </li>
             </ul>
         </footer>
