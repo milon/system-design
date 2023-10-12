@@ -43,7 +43,7 @@
         <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
-                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
+                    <a href="/" title="{{ $page->siteName }} home" class="logo inline-flex items-center">
                         <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
 
                         <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 pr-4">{{ $page->siteName }}</h1>
@@ -55,8 +55,8 @@
                         @include('_nav.search-input')
                     @endif
                     <a href="/getting-started" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-semibold text-white hover:text-white rounded mr-4 ml-4 py-2 px-6">Docs</a>
-                    <a href="https://github.com/milon/system-design" title="source code" target="_blank">
-                        <img class="h-8 md:h-10 mr-3" src="/assets/img/github-logo.svg" alt="github" />
+                    <a href="https://github.com/milon/system-design" title="source code" target="_blank" class="github-logo">
+                        <img class="h-8 md:h-10 mr-3" src="/assets/img/github-logo.svg" alt="github"/>
                     </a>
                 </div>
             </div>

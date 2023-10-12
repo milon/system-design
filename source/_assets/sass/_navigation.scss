@@ -41,3 +41,13 @@
         @apply .font-extrabold;
     }
 }
+
+.github-logo:hover {
+    filter: invert(0.4);
+}
+
+.logo:hover {
+    img {
+        filter: invert(0.4);
+    }
+}
