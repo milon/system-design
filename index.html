@@ -7,8 +7,12 @@
   <link rel="icon" href="./favicon.ico" type="image/x-icon" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <!-- Docsify v4 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  
+  <!-- custom styles -->
   <link rel="stylesheet" href="./_assets/css/style.css">
 </head>
 <body>
@@ -18,6 +22,7 @@
       name: 'System Design',
       repo: 'https://github.com/milon/system-design',
       loadSidebar: true,
+      loadFooter: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
@@ -34,5 +39,6 @@
   <!-- Plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
 </body>
 </html>
