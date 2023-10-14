@@ -1,3 +1,3 @@
 ---
 
-<small>[System Design](/) is maintained by [Nuruzzaman Milon](https://milon.im).  Powered by [Docsify](https://docsify.js.org).</small>
+<small>[System Design](/) is maintained by [Nuruzzaman Milon](https://milon.im).</small>
