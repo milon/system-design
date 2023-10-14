@@ -18,6 +18,6 @@ This site is open source and hosted in github. Click the github icon in the top 
 
 You can find the example diagrams in the assets directory of the source code.
 
-## How to contribute?
+### How to contribute?
 
 You can contribute to this website by creating a pull request on GitHub. You can also create an issue if you find any bug or have any suggestion.
