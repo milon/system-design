@@ -8,7 +8,7 @@ Here's what each of these terms means in the context of the CAP theorem:
 2. **Availability (A)**: Availability refers to the guarantee that every request made to a non-failing node in a distributed system will receive a response, without errors or timeouts. In other words, the system remains operational and responsive to user requests even in the presence of node failures or network issues.
 3. **Partition Tolerance (P)**: Partition tolerance accounts for the system's ability to continue functioning even when network partitions (communication failures or delays) occur, causing some nodes to be unable to reach others. Partition tolerance is essential in distributed systems because network issues are common, and nodes might not always be able to communicate seamlessly.
 
-![CAP Theorem](../_assets/images/glossary/cap-theorem.png "CAP Theorem")
+![CAP Theorem](../_assets/images/glossary/cap-theorem.png "CAP Theorem :no-zoom")
 
 The CAP theorem asserts that in a distributed system, you can only guarantee two out of these three properties at any given time. Here are the three possible combinations:
 
