@@ -1,6 +1,6 @@
 ![System Design](_assets/img/logo.svg ':size=100')
 
-# System Design
+# System Design :id=title
 
 > System Design interview preparation guide for Big Tech Companies
 
