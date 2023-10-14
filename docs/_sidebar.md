@@ -38,13 +38,15 @@
 - [Interview Techniques](/interview-techniques.md "Interview Techniques")
 
     - [Interview Steps](/interview-techniques/interview-steps.md)
-    - [Requirement Analysis](interview-techniques/requirement-analysis.md)
-    - [Capacity Estimation](interview-techniques/capacity-estimation.md)
-    - [Data Modeling](interview-techniques/data-model.md)
-    - [API Design](interview-techniques/api-design.md)
-    - [System Design](interview-techniques/system-design.md)
-    - [Design Discussion](interview-techniques/design-discussion.md)
-    - [Database Choices](interview-techniques/database-choices.md)
+
+        - [Requirement Analysis](/interview-techniques/interview-steps/requirement-analysis.md)
+        - [Capacity Estimation](/interview-techniques/interview-steps/capacity-estimation.md)
+        - [Data Modeling](/interview-techniques/interview-steps/data-model.md)
+        - [API Design](/interview-techniques/interview-steps/api-design.md)
+        - [System Design](/interview-techniques/interview-steps/system-design.md)
+        - [Design Discussion](/interview-techniques/interview-steps/design-discussion.md)
+    
+    - [Database Choices](/interview-techniques/database-choices.md)
 
 - [Glossary](/glossary.md "Glossary")
 
