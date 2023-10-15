@@ -10,3 +10,7 @@
 
 [GitHub](https://github.com/milon/system-design)
 [Learn More](/?id=system-design)
+
+<!-- background image -->
+
+![](./_assets/img/background.jpg)
