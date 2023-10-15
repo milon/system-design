@@ -1,3 +1,5 @@
+![Github Actions](https://github.com/milon/one-problem-a-day/actions/workflows/build-publish.yml/badge.svg)
+
 # System Design
 
 This is a collection of notes and resources on system design interview questions. This will not only help you to prepare for the system design interview but also help you to understand the system design concepts used in real world scenerio.
