@@ -10,6 +10,8 @@ This site was build with [Docsify](https://docsify.js.org/#/). The logo was take
 
 For the diagrams, I used the excellent free and open souce software called [Excalidraw](https://excalidraw.com/) with System Design Component library from their official library store. There are multiple visual studio code plugins available for Excalidraw. I used [this](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) pluging to create the diagrams right in my code editor.
 
+The diagrams I have already created can be found [here](https://github.com/milon/system-design/tree/master/excalidraw-diagram).
+
 ### Where can I find the source code of this site?
 
 This site is open source and hosted in github. Click the github icon in the top right corner of this page to go to the source code.
