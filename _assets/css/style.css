@@ -25,3 +25,7 @@ img {
     background-size: contain;
     margin: 0 auto;
 }
+
+.fab.light-green {
+    background: #42b983 !important;
+}
