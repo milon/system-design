@@ -4,7 +4,7 @@ Here are some frequently asked questions about this website.
 
 ### Tools used to build this site
 
-This site was build with [Docsify](https://docsify.js.org/#/). The logo was taken from [thenounproject](https://thenounproject.com/icon/database-design-3783547/).
+This site was build with [Docsify](https://docsify.js.org/#/). The logo was taken from [thenounproject](https://thenounproject.com/icon/database-design-3783547/). The cover page background image was taken from [Unsplash](https://unsplash.com/photos/wusOJ-2uY6w).
 
 ### Tools used to build the diagrams
 
