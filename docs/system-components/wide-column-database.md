@@ -1,6 +1,6 @@
 # Wide-Column Database
 
-A wide-column store is a type of [[NoSQL database]] that stores data in columns instead of rows, allowing for efficient querying and storage of large, complex data sets.
+A wide-column store is a type of [NoSQL database](/system-components/nosql-database.md) that stores data in columns instead of rows, allowing for efficient querying and storage of large, complex data sets.
 
 ### Common Wide-Column Store Characteristics:
 
