@@ -1,0 +1,32 @@
+name: Publish Static
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 2 * * 1-5"
+
+jobs:
+  build-site:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        ref: master
+        fetch-depth: 0
+    - name: Create CNAME File
+      run: echo "system-design.milon.im" >> docs/CNAME
+    - name: Stage Files
+      run: git add -f docs
+    - name: Commit files
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git commit -m "Commit to deploy"
+    - name: Publish
+      run: |
+        git subtree split --prefix docs -b gh-pages
+        git push -f origin gh-pages:gh-pages
+        git branch -D gh-pages
