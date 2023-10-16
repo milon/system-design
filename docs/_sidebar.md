@@ -11,6 +11,7 @@
     - [Event Driven Architecture](/architecture-patterns/event-driven-architecture.md "Event Driven Architecture")
     - [Service Oriented Architecture](/architecture-patterns/service-oriented-architecture.md "Service Oriented Architecture")
     - [MVC Architecture](/architecture-patterns/mvc-architecture.md "Model View Controller Architecture")
+    - [Peer-to-Peer Architecture](/architecture-patterns/peer-to-peer-architecture.md "Peer-to-Peer Architecture")
 
 - [System Components](/system-components.md "System Components")
 
