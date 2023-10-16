@@ -35,6 +35,7 @@
     - [Server](/system-components/server.md)
     - [Service](/system-components/service.md)
     - [Virtual Private Cloud (VPC)](/system-components/virtual-private-cloud.md)
+    - [Virtual Private Network (VPN)](/system-components/virtual-private-network.md)
     - [Virtual Machine (VM)](/system-components/virtual-machine.md)
     - [Web Application](/system-components/web-application.md)
 
