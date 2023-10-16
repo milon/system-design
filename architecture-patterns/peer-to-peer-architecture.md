@@ -2,7 +2,7 @@
 
 Peer-to-Peer (P2P) architecture is a decentralized network design where each node, or "peer," in the network acts as both a client and a server. This design contrasts with the traditional client-server model where a centralized server provides services or resources, and clients consume them. In a P2P system, all responsibilities, including data storage, processing, and bandwidth, are distributed among peers.
 
-### Key Characteristics of P2P Architecture:
+## Key Characteristics of P2P Architecture
 
 1. **Decentralization**: There's no central server that holds all the data or provides all the resources. Each peer in the network can act as both a supplier and a consumer of resources.
 
@@ -16,7 +16,7 @@ Peer-to-Peer (P2P) architecture is a decentralized network design where each nod
 
 ![Peer-to-Peer architecture](../_assets/images/architecture-patterns/peer-to-peer-architecture.png "Peer-to-Peer (P2P) Architecture")
 
-### Common Uses of P2P:
+## Common Uses of P2P
 
 1. **File Sharing**: This is one of the most known uses of P2P networks. Platforms like BitTorrent allow users to share and download files directly from each other.
 
@@ -28,15 +28,19 @@ Peer-to-Peer (P2P) architecture is a decentralized network design where each nod
 
 5. **Distributed Computing**: Projects like [email protected] or BOINC leverage the unused computational resources of thousands of peers to process large datasets or simulations.
 
-### Pros of P2P:
+## Pros of P2P
 
 - **Resilience**: Difficult to shut down as there's no central point of failure.
+
 - **Resource Optimization**: Efficient use of global resources as every peer brings its capacity to the network.
+
   
-### Cons of P2P:
+## Cons of P2P
 
 - **Security Concerns**: Decentralization can make it harder to implement consistent security measures.
+
 - **Regulation and Control**: The decentralized nature can lead to illegal activities, as seen with some file-sharing platforms.
+
 - **Inefficiency for Small Networks**: P2P can be overkill for small networks and can introduce unnecessary complexity and overhead.
 
 In summary, Peer-to-Peer architecture is a decentralized model where each node acts as both a consumer and a provider of resources. While it offers benefits like scalability and resilience, it also comes with challenges, especially in security and regulation.
