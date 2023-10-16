@@ -10,6 +10,7 @@
     - [Serverless Architecture](/architecture-patterns/serverless-architecture.md "Serverless Architecture")
     - [Event Driven Architecture](/architecture-patterns/event-driven-architecture.md "Event Driven Architecture")
     - [Service Oriented Architecture](/architecture-patterns/service-oriented-architecture.md "Service Oriented Architecture")
+    - [MVC Architecture](/architecture-patterns/mvc-architecture.md "Model View Controller Architecture")
 
 - [System Components](/system-components.md "System Components")
 
