@@ -80,18 +80,12 @@
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-DE81BXEK75"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'G-DE81BXEK75');
-  </script>
+  <script src="./_assets/js/google-analytics.js"></script>
 
   <!-- Service worker for PWA -->
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
-      navigator.serviceWorker.register('sw.js')
+      navigator.serviceWorker.register('service-worker.js')
     }
   </script>
 </body>
