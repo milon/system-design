@@ -6,6 +6,8 @@ This is a collection of notes and resources on system design interview questions
 
 Note: This is a work in progress. I will keep adding more notes and resources.
 
+Thus website is live in this url: [https://system-design.milon.im](https://system-design.milon.im).
+
 ## Installation
 
 This projects uses [docsify](https://docsify.js.org/#/). To run this project locally, you need to make sure that you have `node` and `npm` already installed in your system. Then run the following command to install docsify-cli globally:
