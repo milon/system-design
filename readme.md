@@ -22,6 +22,18 @@ Then run the following command to run the project locally:
 docsify serve docs
 ```
 
+If you don't have node installed and you don't want to install docsify-cli globally, you can run the following command to run the project locally with php or pythons web server:
+
+```bash
+php -S localhost:3000 -t docs
+```
+
+or
+
+```bash
+python -m http.server -d docs 3000
+```
+
 ## Updating the content
 
 I am updating the content of this site on a regular basis. So, please check back later for more content. To get the update, you need to pull the latest changes from the repository.

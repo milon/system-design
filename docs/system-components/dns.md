@@ -6,7 +6,7 @@ Here's how DNS works:
 
 ![DNS](../_assets/images/system-components/dns.png)
 
-1. **Domain Name Resolution**: When you enter a domain name into your web browser (e.g., "www.example.com"), your device sends a DNS query to a DNS resolver, typically provided by your Internet Service Provider (ISP) or a third-party DNS service like Google DNS or OpenDNS.
+1. **Domain Name Resolution**: When you enter a domain name into your web browser (e.g., `www.example.com`), your device sends a DNS query to a DNS resolver, typically provided by your Internet Service Provider (ISP) or a third-party DNS service like Google DNS or OpenDNS.
 2. **DNS Hierarchy**: The DNS resolver searches for the corresponding IP address by querying a hierarchical system of DNS servers. This hierarchy includes:
    - Root Servers: These are the top-level servers that store information about the global structure of the DNS.
    - Top-Level Domain (TLD) Servers: These servers handle specific domain extensions like ".com," ".org," and ".net."
