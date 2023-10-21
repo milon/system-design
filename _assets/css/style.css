@@ -18,14 +18,6 @@ img {
     max-width: 100%;
 }
 
-.sidebar-logo {
-    width: 100px;
-    height: 100px;
-    background: url(../img/logo.png) no-repeat;
-    background-size: contain;
-    margin: 0 auto;
-}
-
 .fab.light-green {
     background: #42b983 !important;
 }
