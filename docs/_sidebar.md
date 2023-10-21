@@ -52,7 +52,7 @@
     
     - [Database Choices](/interview-techniques/database-choices.md "Database Choices - System Design")
 
-- [Glossary](/glossary.md "Glossary" - System Design)
+- [Glossary](/glossary.md "Glossary - System Design")
 
     - [Abstraction](/glossary/abstraction.md "Abstraction - System Design")
     - [ACID](/glossary/acid.md "ACID - System Design")
