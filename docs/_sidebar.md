@@ -96,6 +96,7 @@
     - [Model](/glossary/model.md "Model - System Design")
     - [Module](/glossary/module.md "Module - System Design")
     - [Non-functional Requirement](/glossary/non-functional-requirement.md "Non-functional Requirement - System Design")
+    - [PACELC Theorem](/glossary/pacelc-theorem.md "PACELC Theorem - System Design")
     - [Performance](/glossary/performance.md "Performance - System Design")
     - [PostgreSQL](/glossary/postgresql.md "PostgreSQL - System Design")
     - [Redundancy](/glossary/redundancy.md "Redundancy - System Design")
