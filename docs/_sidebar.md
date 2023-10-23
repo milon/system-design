@@ -34,8 +34,8 @@
     - [Load Balancer](/system-components/load-balancer.md "Load Balancer - System Design")
     - [Server](/system-components/server.md "Server - System Design")
     - [Service](/system-components/service.md "Service - System Design")
-    - [Virtual Private Cloud (VPC)](/system-components/virtual-private-cloud.md "Virtual Private Cloud (VPC) - System Design")
-    - [Virtual Private Network (VPN)](/system-components/virtual-private-network.md "Virtual Private Network (VPN) - System Design")
+    - [Virtual Private Cloud (VPC)](/system-components/virtual-private-cloud.md "VPC - System Design")
+    - [Virtual Private Network (VPN)](/system-components/virtual-private-network.md "VPN - System Design")
     - [Virtual Machine (VM)](/system-components/virtual-machine.md "Virtual Machine (VM) - System Design")
     - [Web Application](/system-components/web-application.md "Web Application - System Design")
 
@@ -118,4 +118,4 @@
 - [Others](/others.md "Others - System Design")
 
     - [About](/others/about.md "About - System Design")
-    - [Frequently Asked Questions (FAQ)](/others/frequently-asked-questions.md "Frequency Asked Questions (FAQ) - System Design")
+    - [Frequently Asked Questions (FAQ)](/others/frequently-asked-questions.md "FAQ - System Design")
