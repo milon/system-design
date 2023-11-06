@@ -9,3 +9,5 @@ First you need to go through the [Glossary](/glossary.md) section to get familia
 Finally, you can go through the [Interview Techniques](/interview-techniques.md) section to learn about the  different techniques you can use in a system design interview.
 
 I am planning to add more content in the future. So, please check back later for more content.
+
+!> **Note:** This website is still a work in progress and updates frequently. And because of the choice of tool to build this website and give a better user experience to the readers, the website cache heavily in the browser. So, if you don't see any update, please clear your browser cache and reload the page.
