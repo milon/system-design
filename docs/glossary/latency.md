@@ -1,9 +1,9 @@
 # Latency
 
-Latency is a term used to describe the amount of time it takes for data to travel between two points in a computer network. 
+Latency refers to the time interval it takes for a data packet to traverse from one designated point to another across a network.
 
-It is a measure of the delay that occurs when data is transmitted from one point to another, and is usually expressed in milliseconds (ms). Latency can be affected by various factors, including the distance between the two points, the speed of the network connection, the quality of the network infrastructure, and the processing time required by the devices involved. 
+This time delay, typically quantified in milliseconds, encapsulates the duration a data packet takes to be transferred and can be influenced by numerous elements such as the physical distance between the communicating points, the velocity of the connection, the caliber of the network setup, and the time taken by devices to process the data.
 
-In general, lower latency is desirable, as it means that data can be transmitted more quickly and with less delay. However, achieving low latency can be challenging in complex networks or in situations where large amounts of data need to be transmitted over long distances. 
+Aiming for reduced latency is beneficial because it denotes swifter data transmission with fewer time lags. However, attaining minimal latency can pose challenges, particularly in intricate network configurations or scenarios where hefty data volumes must be conveyed across extensive distances.
 
-Latency is an important consideration in many areas of computing, including online gaming, video streaming, and real-time communication applications.
+Latency is a critical factor in many computing domains, like online gaming where real-time interaction is crucial, video streaming which requires smooth playback, and real-time communication services where immediate exchange is pivotal.

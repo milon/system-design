@@ -1,3 +1,3 @@
 # Coupling
 
-A measure of the degree to which components or modules in a system depend on each other. Tight coupling means that components are closely connected, while loose coupling means that components are relatively independent.
+This term Coupling quantifies the extent of interdependence between the elements or modules within a system. High coupling implies that components are closely interconnected, whereas low coupling indicates that components maintain a greater level of autonomy from one another.
