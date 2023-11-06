@@ -1,3 +1,3 @@
 # Interface
 
-A boundary between two systems or components that allows them to communicate with each other. Interfaces can be defined using a variety of technologies, including APIs and protocols, and are essential for enabling systems to work together.
+An interface serves as a point of interaction between two distinct systems or components, facilitating their ability to exchange information. It can be established through various technological means, such as Application Programming Interfaces (APIs) and communication protocols, and is crucial for integrating systems to function cooperatively.

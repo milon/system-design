@@ -60,6 +60,7 @@
     - [Architecture](/glossary/architecture.md "Architecture - System Design")
     - [Authentication](/glossary/authentication.md "Authentication - System Design")
     - [Authorization](/glossary/authorization.md "Authorization - System Design")
+    - [Availability](/glossary/availability.md "Availability - System Design")
     - [BASE](/glossary/base.md "BASE - System Design")
     - [CAP Theorem](/glossary/cap-theorem.md "CAP Theorem - System Design")
     - [Capacity Planning](/glossary/capacity-planning.md "Capacity Planning - System Design")

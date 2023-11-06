@@ -1,3 +1,3 @@
 # Authorization
 
-The process of granting or denying access to specific resources or functionalities based on a user's identity, role, or permissions. Authorization is an important security measure that helps to prevent unauthorized use of systems or data.
+Authorization is a crucial security protocol that involves allowing or restricting access to particular resources or features, contingent upon the user's established identity, assigned role, or allocated permissions. It serves as a safeguard, ensuring that individuals can only interact with systems or data for which they have explicit rights. This measure is key in protecting against the illegitimate use of systems or exposure of sensitive information. By defining and enforcing boundaries on what authenticated users are permitted to do, authorization upholds system security and data integrity, playing a pivotal role in the overarching framework of information security.
