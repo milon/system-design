@@ -36,7 +36,11 @@ python -m http.server -d docs 3000
 
 ## Updating the content
 
-I am updating the content of this site on a regular basis. So, please check back later for more content. To get the update, you need to pull the latest changes from the repository.
+I am updating the content of this site on a regular basis. So, please check back later for more content.
+
+This project is live in github pages. So any updates in the `master` branch will be automatically published in the live site. 
+
+To get the update in your local repository, you need to pull the latest changes from the repository.
 
 ```bash
 git pull origin master
