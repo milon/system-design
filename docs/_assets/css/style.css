@@ -12,6 +12,14 @@ body {
     top: 18px;
 }
 
+.sidebar ul li a {
+    font-size: medium;
+}
+
+.sidebar>h1 a {
+    font-weight: bold;
+}
+
 img {
     margin: auto;
     display: block;
