@@ -5,15 +5,10 @@ Event-driven architecture (EDA) is a software design pattern that focuses on the
 Key components and concepts of event-driven architecture include:
 
 1. Events: Events are signals or notifications that represent a change or an occurrence within a system. Events can be explicit, such as user interactions like button clicks or sensor data updates, or implicit, like system errors or data changes. Events are typically described in terms of their type, data, and source.
-
 2. Event Sources: These are entities that generate events. Event sources can be diverse, ranging from user interfaces, sensors, hardware devices, software components, or other systems.
-
 3. Event Consumers or Subscribers: Event consumers are components or processes that listen for specific events and respond to them. Event consumers register their interest in specific event types and take action when those events occur.
-
 4. Event Broker or Event Bus: An event-driven architecture often includes a central event broker or event bus that acts as an intermediary for events. It receives events from sources and forwards them to consumers that have subscribed to the relevant event types. This decouples event sources from event consumers, enabling more flexible and scalable systems.
-
 5. Asynchronous Processing: Event-driven systems typically handle events asynchronously, meaning that event sources can continue their operations without waiting for event consumers to process events. This enables greater system responsiveness and scalability.
-
 6. Event Handlers: These are pieces of code responsible for processing specific events. Event handlers are defined to execute particular actions when specific events are received.
 
 Event-driven architecture is commonly used in a variety of applications, including real-time systems, distributed systems, user interfaces, and microservices architectures. It offers advantages like scalability, flexibility, and the ability to respond to events in a more timely manner, making it suitable for many modern software development scenarios. Popular tools and frameworks, such as Apache Kafka, RabbitMQ, and various message queue systems, support the implementation of event-driven architectures.
@@ -21,5 +16,4 @@ Event-driven architecture is commonly used in a variety of applications, includi
 The most commonly used event-driven architecture patterns include:
 
 - [Publish-Subscribe Pattern](/glossary/pub-sub.md): In this pattern, event sources publish events to a central event broker, which then forwards them to event consumers that have subscribed to the relevant event types. This pattern is useful for decoupling event sources from event consumers, enabling more flexible and scalable systems.
-
 - [Command Query Responsibility Segregation (CQRS)](/glossary/cqrs.md): This pattern separates the concerns of read and write operations in a system by using different models for handling commands (updates) and queries (reads). This separation is particularly useful when building complex and scalable systems that deal with a high volume of data and complex business logic.
